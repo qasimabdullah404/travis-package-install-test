@@ -1,5 +1,5 @@
 language: ruby
-sudo: false
+sudo: required
 dist: xenial
 addons:
   postgresql: '9.6'
